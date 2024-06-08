@@ -1,10 +1,6 @@
 approvers:
-  - leogr
-  - jasondellaluce
+  - nxpkg
+  - khulnasoft-bot
 emeritus_approvers:
-  - leodido
-  - fntlnz
-  - kris-nova
-  - mstemm
-  - ldegio
-  
+  - gitworkflows
+  - fortishield
