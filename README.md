@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This SDK facilitates writing [plugins](https://diginfra.org/docs/plugins) for [Diginfra](https://github.com/diginfra/diginfra) or application using [Diginfrasecurity's libs](https://github.com/diginfra/libs).
+This SDK facilitates writing [plugins](https://diginfra.org/docs/plugins) for [Diginfra](https://github.com/diginfra/diginfra) or application using [Diginfra's libs](https://github.com/diginfra/libs).
 
 ## Quick start
 
@@ -23,7 +23,7 @@ For a quick start, you can refer to the provided examples:
 
 ## What's next
 
-When ready to release your plugin, make sure to register the plugin with the Diginfrasecurity organization by creating a PR to the [diginfra/plugins](https://github.com/diginfra/plugins) respository with details on the new plugin. This ensures that a given ID is used by exactly one plugin with event sourcing capability, and allows authors of plugins with field extraction capability to coordinate about event source formats.
+When ready to release your plugin, make sure to register the plugin with the Diginfra organization by creating a PR to the [diginfra/plugins](https://github.com/diginfra/plugins) respository with details on the new plugin. This ensures that a given ID is used by exactly one plugin with event sourcing capability, and allows authors of plugins with field extraction capability to coordinate about event source formats.
 
 ## Join the Community
 

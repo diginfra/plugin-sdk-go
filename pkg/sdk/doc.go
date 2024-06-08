@@ -16,7 +16,7 @@ limitations under the License.
 */
 
 // Package sdk provides definitions and constructs for developers that
-// would like to write Diginfrasecurity Plugins (https://diginfra.org/docs/plugins/)
+// would like to write Diginfra Plugins (https://diginfra.org/docs/plugins/)
 // in Go.
 //
 // Before using this package, review the developer's guide

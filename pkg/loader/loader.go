@@ -121,7 +121,7 @@ var (
 	errNoSourcingCap  = errors.New("plugin does not support event sourcing capability")
 )
 
-// Plugin represents a Diginfrasecurity Plugin loaded from an external shared
+// Plugin represents a Diginfra Plugin loaded from an external shared
 // dynamic library
 type Plugin struct {
 	m            sync.Mutex
@@ -162,7 +162,7 @@ func NewValidPlugin(path string) (*Plugin, error) {
 	return p, nil
 }
 
-// NewPlugin loads a Diginfrasecurity plugin from the dynamic library present in
+// NewPlugin loads a Diginfra plugin from the dynamic library present in
 // the local filesystem at the given path. If successful, returns a
 // *loader.Plugin representing the loaded plugin and a nil error.
 // Otherwise, returns a non-nil error containing the failure condition.
